@@ -32,3 +32,12 @@
 [submodule "themes/pixyll"]
 	path = themes/pixyll
 	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themestexify"]
+	path = themestexify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/themestexify"]
+	path = themes/themestexify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/texify"]
+	path = themes/texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
