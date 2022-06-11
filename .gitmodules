@@ -1,46 +1,12 @@
-
-[submodule "themes/beautifulhugo"]
-	path = themes/beautifulhugo
-	url = https://github.com/halogenica/beautifulhugo.git
-[submodule "themes/ramium"]
-	path = themes/ramium
-	url = https://github.com/rafed/ramium.git
 [submodule "themes/loveit"]
 	path = themes/loveit
 	url = https://github.com/dillonzq/LoveIt.git
-[submodule "themes/researcher"]
-	path = themes/researcher
-	url = https://github.com/ojroques/hugo-researcher.git
 [submodule "themes/hello-friend-ng"]
 	path = themes/hello-friend-ng
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
-[submodule "themes/eureka"]
-	path = themes/eureka
-	url = https://github.com/wangchucheng/hugo-eureka.git
-[submodule "themes/capsule"]
-	path = themes/capsule
-	url = https://github.com/sudorook/capsule
 [submodule "themes/black-and-light"]
 	path = themes/black-and-light
 	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
 [submodule "themes/hugo-theme-basic"]
 	path = themes/hugo-theme-basic
 	url = https://github.com/siegerts/hugo-theme-basic.git
-[submodule "themes/anubis"]
-	path = themes/anubis
-	url = https://github.com/mitrichius/hugo-theme-anubis.git
-[submodule "themes/pixyll"]
-	path = themes/pixyll
-	url = https://github.com/azmelanar/hugo-theme-pixyll.git
-[submodule "themestexify"]
-	path = themestexify
-	url = https://github.com/queensferryme/hugo-theme-texify.git
-[submodule "themes/themestexify"]
-	path = themes/themestexify
-	url = https://github.com/queensferryme/hugo-theme-texify.git
-[submodule "themes/texify"]
-	path = themes/texify
-	url = https://github.com/queensferryme/hugo-theme-texify.git
-[submodule "themes/pickles"]
-	path = themes/pickles
-	url = https://github.com/mismith0227/hugo_theme_pickles.git
