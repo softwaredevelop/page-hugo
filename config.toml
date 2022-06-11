@@ -1,4 +1,4 @@
 baseURL = 'http://softwaredevelop.github.io/page-hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "ramium"
+theme = "loveit"
